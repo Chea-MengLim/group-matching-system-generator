@@ -59,8 +59,7 @@ npm start
 ## Demo video
 
 - The file `public/result.mp4` contains a **demo of the final interaction**, animations, and matching flow.
-- To share this video in a deployed environment, you can link to it as:
-  - `/result.mp4` (for example, `https://your-domain.com/result.mp4` after deployment).
+[Watch the demo video](./public/result.mp4)
 
 ---
 
